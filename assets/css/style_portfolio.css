@@ -8,7 +8,7 @@ body {
 }
 
 .bodyBox {
-    background-color:white;
+   
     width:960px;
     height:940px;
     margin-top:20px;
@@ -210,17 +210,40 @@ a:hover {
        
     }
 
-    .bodyBox {
+    .bodyBox2 {
         background-color:white;
-        width:75%;
+        width:92%;
         height:auto;
         margin-top:20px;
+        margin-bottom:100px;
         padding:15px;
         margin-right:auto;
         margin-left:auto;
-        position: relative;
+       
        
     }  
 
+    h2{
+        text-align: center;
+    }
+
+    .overLordBox{
+       
+        float:left;
+        padding:10px;
+    }
+
+    .navBar{
+        margin-right:auto;
+        margin-left:auto;
+    }
+
+    .divider{
+        width:100%;
+        margin-right:auto;
+        margin-left:auto;
+    }
+
+   
     
 }

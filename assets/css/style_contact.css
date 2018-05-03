@@ -190,7 +190,20 @@ a:hover {
        
     }  
 
-    form{
+  /*Im stuck on the below section too*/ 
+
+    input{
+       
+        margin-right:auto;
+        margin-left:auto;
+        width:auto;
+
+    }
+
+    textarea{
+        
+        margin-right:auto;
+        margin-left:auto;
         width:auto;
     }
 }
